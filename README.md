@@ -1,1 +1,0 @@
-# Tailwind Practice Project
